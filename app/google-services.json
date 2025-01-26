@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485803534121",
+    "project_id": "siswa-cc79f976",
+    "storage_bucket": "siswa-cc79f976.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485803534121:android:85e80b121078769563b938",
+        "android_client_info": {
+          "package_name": "com.example.siswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1MEYxkBcPtA70MJKFGi3JkK09XGXJE4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
